@@ -175,5 +175,6 @@ Each section includes a finding, a screenshot, and the exact filename used.
 
 ## 📌 7. Evidence Folder
 
-All screenshots used in this project are stored in:
+All screenshots used in this project are stored in the Images folder:
 
+➡️ 📁 [images/](images/)
