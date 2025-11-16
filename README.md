@@ -38,7 +38,7 @@ Each section includes a finding, a screenshot, and the exact filename used.
 
 ---
 
-## 3.1 APT Attribution — APT37
+## 📌 3.1 APT Attribution — APT37
 `What country is APT37 associated with?`
 
 **Finding:** APT37 is attributed to **North Korea**.
@@ -47,7 +47,7 @@ Each section includes a finding, a screenshot, and the exact filename used.
 
 ---
 
-## 3.2 Initial Access Techniques Used by APT37
+## 📌 3.2 Initial Access Techniques Used by APT37
 `Which Attack techniques are used by the group for initial access?`
 
 **Finding:**  
@@ -59,7 +59,7 @@ Each section includes a finding, a screenshot, and the exact filename used.
 
 ---
 
-## 3.3 Malware Relations for Native API Technique
+## 📌 3.3 Malware Relations for Native API Technique
 `How many malware relations are linked to this Attack technique?`
 
 **Finding:** **113 malware relations** linked to this technique.
@@ -70,7 +70,7 @@ Each section includes a finding, a screenshot, and the exact filename used.
 
 ---
 
-## 3.4 Tools Used in 2016
+## 📌 3.4 Tools Used in 2016
 `Which 3 tools were used by the Attack Technique in 2016?`
 
 **Finding:**  
@@ -83,7 +83,7 @@ Each section includes a finding, a screenshot, and the exact filename used.
 
 ---
 
-##3.5 Execution Technique Used by Malware
+## 📌 3.5 Execution Technique Used by Malware
 `Which Attack technique is used by the malware for execution?`
 
 **Finding:** Malware uses **Native API (T1106)** for execution.
@@ -93,7 +93,7 @@ Each section includes a finding, a screenshot, and the exact filename used.
 
 ---
 
-## 3.6 Earliest Recorded CaddyWiper Activity
+## 📌 3.6 Earliest Recorded CaddyWiper Activity
 `What is the earliest date recorded related to CaddyWiper?`
 
 **Finding:** **March 15, 2022**
@@ -102,7 +102,7 @@ Each section includes a finding, a screenshot, and the exact filename used.
 
 ---
 
-##3.7 Cobalt Strike Intrusion Sets (GOOD Confidence)
+## 📌 3.7 Cobalt Strike Intrusion Sets (GOOD Confidence)
 `What Intrusion sets are associated with the Cobalt Strike malware with a Good confidence level?`
 
 **Finding:**  
@@ -122,7 +122,7 @@ Each section includes a finding, a screenshot, and the exact filename used.
 
 ---
 
-## 3.9 Kill-Chain Phase Mapping (CLI Attack Pattern)
+## 📌 3.9 Kill-Chain Phase Mapping (CLI Attack Pattern)
 `What kill-chain phase is linked with the Command-Line Interface Attack Pattern ANSWER?`
 
 
@@ -132,7 +132,7 @@ Each section includes a finding, a screenshot, and the exact filename used.
 
 ---
 
-## 3.10 Indicators Location in Activities
+## 📌 3.10 Indicators Location in Activities
 `Within the Activities category, which tab would house the Indicators?`
 
 **Finding:** Indicators are stored under the **Indicators** tab.
