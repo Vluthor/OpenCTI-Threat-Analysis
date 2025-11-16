@@ -102,7 +102,7 @@ Each section includes a finding, a screenshot, and the exact filename used.
 
 ---
 
-### ### 3.7 Cobalt Strike Intrusion Sets (GOOD Confidence)
+##3.7 Cobalt Strike Intrusion Sets (GOOD Confidence)
 `What Intrusion sets are associated with the Cobalt Strike malware with a Good confidence level?`
 
 **Finding:**  
